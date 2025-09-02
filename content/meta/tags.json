@@ -1,0 +1,62 @@
+[
+  {
+    "id": "contracts",
+    "name": "Contracts",
+    "slug": "contracts"
+  },
+  {
+    "id": "legal-principles",
+    "name": "Legal Principles",
+    "slug": "legal-principles"
+  },
+  {
+    "id": "civil-law",
+    "name": "Civil Law",
+    "slug": "civil-law"
+  },
+  {
+    "id": "business-law",
+    "name": "Business Law",
+    "slug": "business-law"
+  },
+  {
+    "id": "career-advice",
+    "name": "Career Advice",
+    "slug": "career-advice"
+  },
+  {
+    "id": "legal-skills",
+    "name": "Legal Skills",
+    "slug": "legal-skills"
+  },
+  {
+    "id": "professional-development",
+    "name": "Professional Development",
+    "slug": "professional-development"
+  },
+  {
+    "id": "law-practice",
+    "name": "Law Practice",
+    "slug": "law-practice"
+  },
+  {
+    "id": "criminal-law",
+    "name": "Criminal Law",
+    "slug": "criminal-law"
+  },
+  {
+    "id": "ipc",
+    "name": "IPC",
+    "slug": "ipc"
+  },
+  {
+    "id": "indian-law",
+    "name": "Indian Law",
+    "slug": "indian-law"
+  },
+  {
+    "id": "legal-codes",
+    "name": "Legal Codes",
+    "slug": "legal-codes"
+  }
+]

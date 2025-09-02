@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://legalmanthan.vercel.app
+
+# Sitemaps
+Sitemap: https://legalmanthan.vercel.app/sitemap.xml

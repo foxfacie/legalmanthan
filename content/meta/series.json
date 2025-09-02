@@ -1,0 +1,16 @@
+[
+  {
+    "id": "contract-law-fundamentals",
+    "title": "Contract Law Fundamentals",
+    "slug": "contract-law-fundamentals",
+    "description": "A comprehensive series covering all aspects of contract law from basic principles to advanced applications",
+    "noteIds": ["understanding-contract-law"]
+  },
+  {
+    "id": "indian-criminal-law",
+    "title": "Indian Criminal Law",
+    "slug": "indian-criminal-law",
+    "description": "Complete guide to Indian criminal law including IPC, CrPC, and Evidence Act",
+    "noteIds": ["indian-penal-code-overview"]
+  }
+]

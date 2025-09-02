@@ -1,0 +1,58 @@
+[
+  {
+    "id": "contract-law",
+    "name": "Contract Law",
+    "slug": "contract-law",
+    "description": "Legal principles governing agreements and contractual relationships",
+    "order": 1
+  },
+  {
+    "id": "criminal-law",
+    "name": "Criminal Law",
+    "slug": "criminal-law",
+    "description": "Laws defining crimes and prescribing punishments",
+    "order": 2
+  },
+  {
+    "id": "corporate-law",
+    "name": "Corporate Law",
+    "slug": "corporate-law",
+    "description": "Legal framework governing business entities and corporate transactions",
+    "order": 3
+  },
+  {
+    "id": "constitutional-law",
+    "name": "Constitutional Law",
+    "slug": "constitutional-law",
+    "description": "Fundamental principles and structure of government and individual rights",
+    "order": 4
+  },
+  {
+    "id": "legal-fundamentals",
+    "name": "Legal Fundamentals",
+    "slug": "legal-fundamentals",
+    "description": "Basic principles and concepts essential to legal practice",
+    "order": 5
+  },
+  {
+    "id": "career-development",
+    "name": "Career Development",
+    "slug": "career-development",
+    "description": "Professional growth and advancement in legal careers",
+    "order": 6
+  },
+  {
+    "id": "legal-profession",
+    "name": "Legal Profession",
+    "slug": "legal-profession",
+    "description": "Practice management, ethics, and professional standards",
+    "order": 7
+  },
+  {
+    "id": "law-notes",
+    "name": "Law Notes",
+    "slug": "law-notes",
+    "description": "Comprehensive study materials and legal analysis",
+    "order": 8
+  }
+]
